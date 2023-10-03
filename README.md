@@ -1,6 +1,7 @@
 # Frontend Mentor - IP address tracker
 
-![Design preview for the IP address tracker coding challenge](./design/desktop-preview.jpg)
+![image](https://github.com/fizasaif123/IP-tracker-pro/assets/62798377/d16f67a4-18de-48ab-84c0-3d286d6d27f2)
+
 
 ## Welcome! 👋
 
